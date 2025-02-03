@@ -1,0 +1,24 @@
+{
+  "name": "high-low-game-georgechen0306",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/winthropuniversity-besmer/high-low-game-GeorgeChen0306.git"
+  },
+  "author": "George Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/winthropuniversity-besmer/high-low-game-GeorgeChen0306/issues"
+  },
+  "homepage": "https://github.com/winthropuniversity-besmer/high-low-game-GeorgeChen0306#readme",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "twilio": "^3.83.2"
+  }
+}
